@@ -1,0 +1,67 @@
+body{
+    background-color:rgb(224, 167, 92);
+}
+h2{
+    margin-left:5px;
+    color:rgb(252, 255, 207);
+}
+header{
+    padding-top: 20px;
+    padding-bottom:2px;
+    padding-left:20px;
+    padding-right:20px;
+    text-align:center;
+    width:auto;
+    height:fit-content;
+    font-family:Viner Hand ITC;
+    font-size:40px;
+    border-color:rgb(252, 255, 207);  
+    border-style:solid;
+    border-top-width:6px;
+    border-bottom-width:6px;
+    border-left-width:6px;
+    border-right-width:6px;
+    color:rgb(252, 255, 207);
+}
+section{
+    padding-top: 2px;
+    padding-bottom:2px;
+    padding-left:20px;
+    padding-right:20px;
+    border-color: rgb(252, 255, 207); 
+    border-style:solid;
+    border-width: 6px 6px 6px 6px;
+}
+.bread{
+    margin-bottom:20px;
+    margin-top:20px;
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content:space-between;    
+}
+.cake{
+    margin-bottom:20px;
+    margin-top:20px;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content:space-between;  
+    
+}
+div{
+    margin-left:auto;
+    display:flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+}
+a{
+    font-size:20px;
+    width:fit-content;
+    border-style:solid;
+    border-width: 2px 2px 1px 2px;
+    border-color: rgb(252, 255, 207); 
+    border-bottom-left-radius:5px;
+    border-top-right-radius:5px;
+    color:rgb(252, 255, 207); 
+}

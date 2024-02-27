@@ -1,0 +1,56 @@
+body{
+    background-color:rgb(224, 167, 92);
+}
+header{
+    padding-top: 20px;
+    padding-bottom:2px;
+    padding-left:20px;
+    padding-right:20px;
+    text-align:center;
+    width:auto;
+    height:fit-content;
+    font-family:Viner Hand ITC;
+    font-size:40px;
+    border-color:rgb(252, 255, 207); 
+    border-style:solid;
+    border-top-width:6px;
+    border-bottom-width:3px;
+    border-left-width:6px;
+    border-right-width:6px;
+    color:rgb(252, 255, 207);
+}
+.para{
+    padding-top: 20px;
+    padding-bottom:2px;
+    padding-left:20px;
+    padding-right:20px;
+    width:auto;
+    height:auto;
+    text-align: center;
+    font-size:25px;
+    font-family: sans-serif;
+    border-color:rgb(252, 255, 207);
+    border-style:solid;
+    border-top-width:6px;
+    border-bottom-width:6px;
+    border-left-width:6px;
+    border-right-width:6px;
+    color:rgb(252, 255, 207);
+}
+a{
+    font-size:20px;
+    border-style:solid;
+    display:flex;
+    border-width: 2px 2px 1px 2px;
+    border-color: rgb(252, 255, 207);
+    border-bottom-left-radius:5px;
+    border-top-right-radius:5px;
+    color:rgb(252, 255, 207);
+}
+.backtohome{  
+    width:fit-content;
+    height:auto;
+    
+}
+
+
